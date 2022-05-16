@@ -7,4 +7,4 @@ Analysis part 2: <a href="https://github.com/GSJv2-1/UnderstandingCustomers/blob
 
 Group Presentation of Findings: <a href="https://github.com/GSJv2-1/UnderstandingCustomers/blob/main/C1T3_GJ/Course1_Task3final.pptx">Presentation</a>
 
-Lessons learned: <a href="https://github.com/GSJv2-1/UnderstandingCustomers/blob/main/C1T3_GJ/Grant_J_Lessons_Learned_Task_3.docx"<The Takeaway</a>
+Lessons learned: <a href="https://github.com/GSJv2-1/UnderstandingCustomers/blob/main/C1T3_GJ/Grant_J_Lessons_Learned_Task_3.docx">The Takeaway</a>
